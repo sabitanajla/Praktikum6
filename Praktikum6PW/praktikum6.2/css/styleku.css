@@ -1,0 +1,52 @@
+body {
+    background-color: #F0EBCE;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: #AA8B56;
+}
+
+#header{
+    background-color: #4E6C50;
+    text-align: center;
+    padding: 5px;
+}
+
+blockquote{
+    background-color: #395144;
+    border: 1px dotted black;
+    padding: 10px;
+    color: #F0EBCE;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.nav ul li{
+    margin: 0em 5px;
+}
+
+.jawa{
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.koleksi {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0 20px 0;
+    width: 1300px;
+    /* border: 1px solid black; */
+}
